@@ -1,0 +1,12 @@
+C:\Users\I E Parodi\source\repos\Javier\Javier\bin\Debug\Javier.exe.config
+C:\Users\I E Parodi\source\repos\Javier\Javier\bin\Debug\Javier.exe
+C:\Users\I E Parodi\source\repos\Javier\Javier\bin\Debug\Javier.pdb
+C:\Users\I E Parodi\source\repos\Javier\Javier\bin\Debug\Javier.xml
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.vbprojAssemblyReference.cache
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.Form1.resources
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.Resources.resources
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.vbproj.GenerateResource.cache
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.vbproj.CoreCompileInputs.cache
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.exe
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.xml
+C:\Users\I E Parodi\source\repos\Javier\Javier\obj\Debug\Javier.pdb
